@@ -21,4 +21,4 @@ Engine/Binaries/ThirdParty/OpenXR/win64/openxr_loader.dll	2022-06-17T19:53:28.05
 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2022-06-17T19:53:28.040Z
 Engine/Binaries/ThirdParty/NVIDIA/GeForceNOW/Win64/GfnRuntimeSdk.dll	2022-06-17T19:53:26.913Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2022-06-17T19:53:49.613Z
-Arcanoid.exe	2022-08-05T21:01:09.197Z
+Arcanoid.exe	2022-08-05T21:17:21.659Z
